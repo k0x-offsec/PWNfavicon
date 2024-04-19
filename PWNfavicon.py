@@ -337,7 +337,7 @@ if __name__ == "__main__":
     parser.add_argument("-df", "--domains-file", help="Specify a file containing domains.")
     parser.add_argument("-d", "--domains", help="Specify domains separated by commas.")
     parser.add_argument("-u","--url", help="Specify the base URL directly.")
-    parser.add_argument("-p", "--ports", help="Specify ports to check separated by commas.", default="80,443,8080")
+    parser.add_argument("-p", "--ports", help="Specify ports to check separated by commas.", default="80,443,8080,8443")
     parser.add_argument("--timeout", type=int, help="Specify timeout for HTTP requests in seconds.", default=10)
     parser.add_argument("-v", "--verbose", action="store_true", help="Enable verbose mode for detailed logging.")
     parser.add_argument("-t", "--threads", type=int, help="Specify the number of threads to use.", default=10)
