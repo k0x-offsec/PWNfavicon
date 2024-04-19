@@ -1,4 +1,3 @@
-# PWNfavicon for WAF Bypass
 
 ![banner](https://github.com/offensive-security-pwncat/PWNfavicon/blob/main/banner.png)
 
