@@ -1,5 +1,7 @@
 # PWNfavicon for WAF Bypass
 
+![banner](https://github.com/offensive-security-pwncat/PWNfavicon/blob/main/banner.png)
+
 ## Overview
 
 The PWNfavicon is a Python-based reconnaissance tool designed to identify websites that potentially mirror the content of a specified URL, aiding in Web Application Firewall (WAF) bypass techniques. It operates by leveraging the analysis of favicon hashes, small icons associated with websites that are often overlooked in security assessments.
